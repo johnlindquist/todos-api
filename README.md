@@ -11,5 +11,5 @@ npm i -g now
 
 # Deploy
 ```
-now johnlindquist/todos
+now johnlindquist/todos-api
 ```
