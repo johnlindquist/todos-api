@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "json-server data.json"
+  },
+  "bin":{
+    "todos-api": "./todos-api.js"
   }
 }
