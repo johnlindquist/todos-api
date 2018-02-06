@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const jsonServer = require('json-server');
 const db = require('db.json');
 const server = jsonServer.create();
