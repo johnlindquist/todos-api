@@ -8,6 +8,6 @@ server.use(jsonServer.defaults());
 const router = jsonServer.router(db);
 server.use(router);
 
-server.listen(3000);
+server.listen(3777);
 
-console.log(`API available on http://localhost:3000/todos`);
+console.log(`API available on http://localhost:3777/todos`);
