@@ -9,3 +9,5 @@ const router = jsonServer.router(db);
 server.use(router);
 
 server.listen(3000);
+
+console.log(`API available on http://localhost:3000/todos`);
