@@ -1,19 +1,19 @@
 {
     "todos": [
         {
-            "task": "Eat",
+            "text": "Eat",
+            "id": 0,
+            "done": false
+        },
+        {
+            "text": "Sleep",
             "id": 1,
-            "complete": false
+            "done": false
         },
         {
-            "task": "Sleep",
-            "id": 2,
-            "complete": false
-        },
-        {
-            "task": "Code",
-            "id": 3,
-            "complete": false
+            "text": "Code",
+            "id": 1,
+            "done": false
         }
     ]
 }
