@@ -1,15 +1,4 @@
-# Install `now`
-
+### Run
 ```
-yarn global add now
-```
-
-or
-```
-npm i -g now
-```
-
-# Deploy
-```
-now johnlindquist/todos-api
+npx github:johnlindquist/todos-api
 ```
